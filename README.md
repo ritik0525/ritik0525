@@ -39,5 +39,10 @@ I love building scalable AI applications, exploring LLM architectures, and optim
   <img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logo=meta&logoColor=white"/>
 </p>
 
+<picture>
+<img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
+
 ---
 ⭐️ From [Ritik Kumar](https://github.com/ritik0525)
